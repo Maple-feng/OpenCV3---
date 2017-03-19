@@ -1,0 +1,52 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.30501.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "1.图像显示", "1.图像显示\1.图像显示.vcxproj", "{610EA415-B380-4325-B33B-1E89CC9E7D2E}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "2.图像腐蚀", "2.图像腐蚀\2.图像腐蚀.vcxproj", "{B2826540-5F78-4255-8F7A-52D743908FEE}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "3.图像模糊", "3.图像模糊\3.图像模糊.vcxproj", "{3807976D-8D3E-4872-B54B-BBACDCE8DD3F}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "4.canny边缘检测", "4.canny边缘检测\4.canny边缘检测.vcxproj", "{1FB52776-92DB-4428-A2ED-C1F0F0151916}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "5.读取并播放视频", "5.读取并播放视频\5.读取并播放视频.vcxproj", "{06CBDEAF-C30B-4D80-8DFC-211B51B8A063}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "6.调用摄像头采集图像", "6.调用摄像头采集图像\6.调用摄像头采集图像.vcxproj", "{B6CDB9FD-B7B3-4A78-884C-B3F99291F841}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{610EA415-B380-4325-B33B-1E89CC9E7D2E}.Debug|Win32.ActiveCfg = Debug|Win32
+		{610EA415-B380-4325-B33B-1E89CC9E7D2E}.Debug|Win32.Build.0 = Debug|Win32
+		{610EA415-B380-4325-B33B-1E89CC9E7D2E}.Release|Win32.ActiveCfg = Release|Win32
+		{610EA415-B380-4325-B33B-1E89CC9E7D2E}.Release|Win32.Build.0 = Release|Win32
+		{B2826540-5F78-4255-8F7A-52D743908FEE}.Debug|Win32.ActiveCfg = Debug|Win32
+		{B2826540-5F78-4255-8F7A-52D743908FEE}.Debug|Win32.Build.0 = Debug|Win32
+		{B2826540-5F78-4255-8F7A-52D743908FEE}.Release|Win32.ActiveCfg = Release|Win32
+		{B2826540-5F78-4255-8F7A-52D743908FEE}.Release|Win32.Build.0 = Release|Win32
+		{3807976D-8D3E-4872-B54B-BBACDCE8DD3F}.Debug|Win32.ActiveCfg = Debug|Win32
+		{3807976D-8D3E-4872-B54B-BBACDCE8DD3F}.Debug|Win32.Build.0 = Debug|Win32
+		{3807976D-8D3E-4872-B54B-BBACDCE8DD3F}.Release|Win32.ActiveCfg = Release|Win32
+		{3807976D-8D3E-4872-B54B-BBACDCE8DD3F}.Release|Win32.Build.0 = Release|Win32
+		{1FB52776-92DB-4428-A2ED-C1F0F0151916}.Debug|Win32.ActiveCfg = Debug|Win32
+		{1FB52776-92DB-4428-A2ED-C1F0F0151916}.Debug|Win32.Build.0 = Debug|Win32
+		{1FB52776-92DB-4428-A2ED-C1F0F0151916}.Release|Win32.ActiveCfg = Release|Win32
+		{1FB52776-92DB-4428-A2ED-C1F0F0151916}.Release|Win32.Build.0 = Release|Win32
+		{06CBDEAF-C30B-4D80-8DFC-211B51B8A063}.Debug|Win32.ActiveCfg = Debug|Win32
+		{06CBDEAF-C30B-4D80-8DFC-211B51B8A063}.Debug|Win32.Build.0 = Debug|Win32
+		{06CBDEAF-C30B-4D80-8DFC-211B51B8A063}.Release|Win32.ActiveCfg = Release|Win32
+		{06CBDEAF-C30B-4D80-8DFC-211B51B8A063}.Release|Win32.Build.0 = Release|Win32
+		{B6CDB9FD-B7B3-4A78-884C-B3F99291F841}.Debug|Win32.ActiveCfg = Debug|Win32
+		{B6CDB9FD-B7B3-4A78-884C-B3F99291F841}.Debug|Win32.Build.0 = Debug|Win32
+		{B6CDB9FD-B7B3-4A78-884C-B3F99291F841}.Release|Win32.ActiveCfg = Release|Win32
+		{B6CDB9FD-B7B3-4A78-884C-B3F99291F841}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
